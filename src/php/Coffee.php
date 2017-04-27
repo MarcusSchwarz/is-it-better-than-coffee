@@ -18,6 +18,7 @@ class Coffee
     /**
      * Constructor for Coffee
      *
+     * @param mixed $stuff
      */
     public function __construct($stuff)
     {
